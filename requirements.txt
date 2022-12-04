@@ -1,0 +1,4 @@
+prettytable==3.5.0
+colorama==0.4.6
+readchar==4.0.3
+windows-curses==2.3.0
